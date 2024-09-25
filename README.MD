@@ -6,7 +6,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is one time activity and you need to do it everytime.
+This is one time activity and you don't need to do it everytime.
 
 This is an example of how to list things you need to use the terraform module and how to install them.
 
