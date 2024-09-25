@@ -14,7 +14,7 @@ Install Terraform locally using the link https://developer.hashicorp.com/terrafo
 
 Preferablly binary download and extract it to c:\Program Files\Terraform
 
-Open the powershell in admin mode and run the below command
+Open the powershell in admin mode and run the below command (Windows Only)
 
 ```sh
 # Set $installPath to location of Terraform executable
