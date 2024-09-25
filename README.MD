@@ -8,7 +8,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is one time activity and you don't need to do it everytime.
 
-This is an example of how to list things you need to use the terraform module and how to install them.
+This is an example of how to use the terraform module and how to install them.
 
 Install Terraform locally using the link https://developer.hashicorp.com/terraform/install
 
